@@ -1,13 +1,21 @@
 
 
-
-
-
-
+![hi](https://rawcdn.githack.com/Lingz-ui/data-myBot/ad3c8603dee6edacf6c8b64becb41d0e7d21e8f1/20220226_092135.jpg)
 
 <p align="center"><b>Profile Visitor Counter</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/shadow-team404/count.svg" alt="visitor badge" width="35%"></p>
 
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
+
+### Member
+
+<img href="https://github.com/M14A6" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/97797436?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Arya" width="16%">&nbsp;
+<img href="https://github.com/Felix-403" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/95995476?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Felix" width="16%">&nbsp;
+<img href="https://github.com/Len-cmd" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/84387230?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Lendra" width="16%">&nbsp;
+<img href="https://github.com/Lingz-ui" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/79846517?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Ling" width="16%">&nbsp;
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -38,10 +46,11 @@
 <br>
 
 ### License
-```
+```diff
+
 MIT License
 
-Copyright (c) 2022 Shadow Team
+Copyright (c) 2022 Shadow Team 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
