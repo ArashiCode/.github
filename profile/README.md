@@ -1,6 +1,6 @@
 
 
-![hi](https://rawcdn.githack.com/Lingz-ui/data-myBot/ad3c8603dee6edacf6c8b64becb41d0e7d21e8f1/20220226_092135.jpg)
+![hi](./20230415_180820.jpg)
 
 <p align="center"><b>Profile Visitor Counter</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/shadow-team404/count.svg" alt="visitor badge" width="35%"></p>
