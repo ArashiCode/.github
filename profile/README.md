@@ -1,5 +1,3 @@
-
-
 ![hi](https://telegra.ph/file/1b42576d300910dcf1fea.png)
 
 <p align="center"><b>Profile Visitor Counter</b></p>
@@ -30,7 +28,7 @@ print(introduction)
 
 ``` 
 <details><summary><b> Result </b></summary><br>
-<font color="#09C700" size="1">Arashicode is a team consisting of 7 talented members with diverse skills. They actively use the JavaScript, Python, HTML, CSS, PHP programming languages to develop various creative and innovative projects. This team has members who are experts in Interface Design, Backend Development, Data Analysis, Artificial Intelligence Development, Web and Mobile Application Development. With this diverse combination of expertise, Arashicode is able to create unique and effective software solutions.</font>
+<span style="font-size: small;">Arashicode is a team consisting of 7 talented members with diverse skills. They actively use the JavaScript, Python, HTML, CSS, PHP programming languages to develop various creative and innovative projects. This team has members who are experts in Interface Design, Backend Development, Data Analysis, Artificial Intelligence Development, Web and Mobile Application Development. With this diverse combination of expertise, Arashicode is able to create unique and effective software solutions.</span>
 </details>
 
 <p  align="center">
