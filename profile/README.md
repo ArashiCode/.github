@@ -1,27 +1,43 @@
 
 
-![hi](./20230415_180820.jpg)
+![hi](https://telegra.ph/file/1b42576d300910dcf1fea.png)
 
 <p align="center"><b>Profile Visitor Counter</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/shadow-team404/count.svg" alt="visitor badge" width="35%"></p>
+<p align="center"><img src="https://profile-counter.glitch.me/arashi/count.svg" alt="visitor badge" width="35%"></p>
 
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-### Member
+```python
 
-<img href="https://github.com/M14A6" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/97797436?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Arya" width="16%">&nbsp;
-<img href="https://github.com/Felix-403" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/95995476?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Felix" width="16%">&nbsp;
-<img href="https://github.com/Len-cmd" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/84387230?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Lendra" width="16%">&nbsp;
-<img href="https://github.com/Lingz-ui" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/79846517?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="Ling" width="16%">&nbsp;
+# Arashicode Team Introduction
+
+team_name = "Arashicode"
+team_size = 7
+programming_languages = ["JavaScript", "Python","HTML","CSS","PHP"]
+expertise_areas = ["Interface Design", "Backend Development", "Data Analysis", "Artificial Intelligence Development", "Web and Mobile Application Development"]
+
+introduction = (
+    f"{team_name} is a team consisting of {team_size} talented members with diverse skills. "
+    f"They actively use the {', '.join(programming_languages)} programming languages to develop various creative and innovative projects. "
+    f"This team has members who are experts in {', '.join(expertise_areas)}. "
+    f"With this diverse combination of expertise, {team_name} is able to create unique and effective software solutions."
+)
+
+print(introduction)
+
+
+
+```
+
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-### 🛠 &nbsp;Tech Stack
+### ðŸ›  &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
@@ -34,11 +50,8 @@
 ![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=shell)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Subversion](https://img.shields.io/badge/-Subversion-05122A?style=flat&logo=subversion)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=007ACC)&nbsp;
 
 <p  align="center">
