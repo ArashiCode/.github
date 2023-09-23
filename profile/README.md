@@ -28,16 +28,16 @@ introduction = (
 
 print(introduction)
 
-
-
-```
-
+``` 
+<details><summary><b> Result </b></summary><br>
+<font color="#09C700" size="1">Arashicode is a team consisting of 7 talented members with diverse skills. They actively use the JavaScript, Python, HTML, CSS, PHP programming languages to develop various creative and innovative projects. This team has members who are experts in Interface Design, Backend Development, Data Analysis, Artificial Intelligence Development, Web and Mobile Application Development. With this diverse combination of expertise, Arashicode is able to create unique and effective software solutions.</font>
+</details>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-### 🛠️ &nbsp;Tech Stack
+### 🛠️  &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
