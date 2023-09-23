@@ -14,21 +14,56 @@
 
 team_name = "Arashicode"
 team_size = 7
-programming_languages = ["JavaScript", "Python","HTML","CSS","PHP"]
-expertise_areas = ["Interface Design", "Backend Development", "Data Analysis", "Artificial Intelligence Development", "Web and Mobile Application Development"]
+programming_languages = ["JavaScript", "Python", "HTML", "CSS", "PHP"]
+expertise_areas = [
+    "Interface Design",
+    "Backend Development",
+    "Data Analysis",
+    "Artificial Intelligence Development",
+    "Web and Mobile Application Development"
+]
 
 introduction = (
     f"{team_name} is a team consisting of {team_size} talented members with diverse skills. "
-    f"They actively use the {', '.join(programming_languages)} programming languages to develop various creative and innovative projects. "
-    f"This team has members who are experts in {', '.join(expertise_areas)}. "
-    f"With this diverse combination of expertise, {team_name} is able to create unique and effective software solutions."
+    f"They actively use the following programming languages to develop various creative and innovative projects:\n"
 )
+
+for lang in programming_languages:
+    introduction += f"- {lang}\n"
+
+introduction += "This team has members who are experts in the following areas:\n"
+
+for area in expertise_areas:
+    introduction += f"- {area}\n"
+
+introduction += f"With this diverse combination of expertise, {team_name} is able to create unique and effective software solutions."
 
 print(introduction)
 
 ``` 
 <details><summary><b> Result </b></summary><br>
-<span style="font-size: small;">Arashicode is a team consisting of 7 talented members with diverse skills. They actively use the JavaScript, Python, HTML, CSS, PHP programming languages to develop various creative and innovative projects. This team has members who are experts in Interface Design, Backend Development, Data Analysis, Artificial Intelligence Development, Web and Mobile Application Development. With this diverse combination of expertise, Arashicode is able to create unique and effective software solutions.</span>
+
+```python
+
+Arashicode is a team consisting of 7 talented members with diverse skills. They actively use the following programming languages to develop various creative and innovative projects:
+
+- JavaScript
+- Python
+- HTML
+- CSS
+- PHP
+
+This team has members who are experts in the following areas:
+
+- Interface Design
+- Backend Development
+- Data Analysis
+- Artificial Intelligence Development
+- Web and Mobile Application Development
+
+With this diverse combination of expertise, Arashicode is able to create unique and effective software solutions.
+```
+
 </details>
 
 <p  align="center">
